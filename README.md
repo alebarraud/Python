@@ -1,2 +1,2 @@
 # Python
-Here is differents projects and exercises that i developed in Python. 
+Here there are differents projects and exercises that i developed in Python. 
